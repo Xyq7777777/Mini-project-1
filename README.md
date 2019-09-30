@@ -33,9 +33,11 @@ Our design is consist of Twitter API for developers and python codes. The API he
     
 (4) Type python twitter_stream.py
   
-   <img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/terminal.png">
+   <img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/twitterapi test.png">
    
-(5)
+(5) You will find a text document in the flod called twitter_stream_10tweets. Open it and you will find here is 10 tweets.
+    
+   <img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/tweets.png">
 
 
 ## Work distribution
