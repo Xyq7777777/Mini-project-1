@@ -12,7 +12,7 @@ I, the customer, would like to know what is the percentage of positive comments.
  
 ## Architecture
 
-<img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/Architecture.png">
+
  
 ## How to build your system
 
