@@ -27,7 +27,9 @@ Explain how to run the automated tests for this system
 
 ### And coding style tests
 
-Explain what these tests test and why
+(1) Download our sources in github.
+    
+   <img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/download.png">
 
 ```
 Give an example
