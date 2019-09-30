@@ -11,6 +11,7 @@ For the owner of the restaurants, they can simply type in the name of their rest
 ## Architecture
 
 ![image](http://github.com/Xyq7777777/Mini-project-1/raw/master/Architecture.png)
+<img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/Architecture.png">
  
 ## How to build your system
 
