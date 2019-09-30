@@ -1,13 +1,13 @@
 # EC 601 Mini Project 1：Tweet4Like
 
-For the owner of the restaurants, they can simply type in the name of their restaurants and then get the result of liking judgement based on comments on Twitter. The input name of the restaurant and “number of tweets to handle” can be determined by users, which enable a more flexible option. Therefore, they can easily know how many tweets like their restaurant and the percentage of it. This may help to improve their service, menu, dishes. Customers may conceive the improvement when visiting next time.
+For the owner of the restaurants, they can simply type in the name of their restaurants and then get the result of liking judgement based on comments on Twitter. The input name of the restaurant and “number of tweets to handle” can be determined by users, which enable a more flexible option. Therefore, they can easily know how many tweets like their restaurants and the percentage of it. This may help to improve their service, menu, dishes. Customers may conceive the improvement when visiting next time.
 
 ## User stories
 
 I, the owner of restaurants, would like to know the current popular choice of food or drinks (what kinds of products should be released).  
 I, the owner of restaurants, would like to know the comments (like, dislike, suggestions) on my store from customers.  
 I, the owner of restaurants, would like to know which marketing strategies (promotions, advertisements, discounts, events) will have the most positive reflect.  
-I, the customer, would like to know what is the percentage of positive comments.
+I, the customer, would like to know what is the percentage of positive attitudes to these restaurants.
  
  
 ## Architecture
@@ -35,7 +35,7 @@ Our design is consist of Twitter API for developers and python codes. The API he
   
    <img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/twitterapi test.png">
    
-(5) You will find a text document in the flod called twitter_stream_10tweets.txt. Open it and you will find here is 10         tweets.
+(5) You will find a text document in the flod called twitter_stream_10tweets.txt. Open it and you will you will find ten tweets here
     
    <img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/tweets.png">
    
