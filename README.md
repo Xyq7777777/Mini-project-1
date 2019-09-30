@@ -33,12 +33,21 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Lessons Learned
+## Work distribution
+
+Yaqun was in charge of module 1 which is getting users' tweets from twitter.
+Yi-Wei was in charge of module 2 which is related to the analysis of the grabbed tweets.
+
+## Lessons learned
 
 ### Yaqun Xia
 
-
-
+In this project I was in charge of the twitter API.In my part, I learned a developer's basic use of the twitter API.I learned about the connection between twitter and python and the use of some commands.I learned how to format the information I got from twitter and to get the information I needed.I learned how to use github to record my project.
 
 ### Yi-Wei Chen
-I was doing Module 2 which is related to the analysis of grabbed tweets. In this process, I learned how to accomplish the job using python. To be specific, how to read lines in txt files, how to search specific terms in lines, how to make a correct judgement based on keys. These stratagies are new to me which I was learning by doing. The part I think could be better is that I should use the existing tools, namely, Google API to help me do the judgement for it is already built and is with higher accuracy than my code. This caused by not having a full exploring to current tools available. Another thing could be done better is that we did not develop an user interface which may cause the difficulty of using for general users. This is caused by not having enough experience of application development. To conclude, this is the first time for me using Github to complete a group project which I found is convenient for projects in teamwork. Throughout the discussion with my teammate, we eventually built a small system by ourselves from none which is a great accomplish in my point of view. The experience and lessons learned from this mini-project could be my motivation to start the next one. 
+
+In this process, I learned how to accomplish the job using python. To be specific, how to read lines in txt files, how to search specific terms in lines, how to make a correct judgement based on keys. These stratagies are new to me which I was learning by doing. This is the first time for me using Github to complete a group project which I found is convenient for projects in teamwork. Throughout the discussion with my teammate, we eventually built a small system by ourselves from none which is a great accomplish in my point of view. The experience and lessons learned from this mini-project could be my motivation to start the next one.
+
+## Future improvements
+
+The part we think could be better is that we should use the existing tools, namely, Google API to help us to do the judgement for it is already built and is with higher accuracy than our code. This caused by not having a full exploring to current tools available. Another thing could be done better is that we did not develop an user interface which may cause the difficulty of using for general users. This is caused by not having enough experience of application development.
