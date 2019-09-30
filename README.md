@@ -21,13 +21,18 @@ Our design is consist of Twitter API for developers and python codes. The API he
 
 ## Running the tests
 
-(1) Download our sources in github.
+(1) Download our resources in github.
     
    <img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/download.png">
 
-```
-Give an example
-```
+(2) Open Oracle VM VirtualBox and put this documents in a folder.
+
+(3)
+
+(4)
+
+(5)
+
 
 ## Work distribution
 
