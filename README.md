@@ -4,10 +4,10 @@ For the owner of the restaurants, they can simply type in the name of their rest
 
 ## User stories
 
-I, the owner of the restaurant, would like to know the current popular choice of food or drinks (what kinds of products should be released).  
-I, the owner of the restaurants, would like to know the comments (like, dislike, suggestions) on my store from customers.  
-I, the owner of the restaurants, would like to know which marketing strategies (promotions, advertisements, discounts, events) will have the most positive reflect.  
-I, the customer, would like to know what is the percentage of positive attitudes to these restaurants.
+- I, the owner of the restaurant, would like to know the current popular choice of food or drinks (what kinds of products should be released).  
+- I, the owner of the restaurants, would like to know the comments (like, dislike, suggestions) on my store from customers.  
+- I, the owner of the restaurants, would like to know which marketing strategies (promotions, advertisements, discounts, events) will have the most positive reflect.  
+- I, the customer, would like to know what is the percentage of positive attitudes to these restaurants.
  
  
 ## Architecture
@@ -46,8 +46,8 @@ Our design is consist of Twitter API for developers and python codes. The API he
 
 ## Work distribution
 
-Yaqun was in charge of module 1 which is getting users' tweets from twitter.
-Yi-Wei was in charge of module 2 which is related to the analysis of the grabbed tweets.
+- Yaqun was in charge of module 1 which is getting users' tweets from twitter.
+- Yi-Wei was in charge of module 2 which is related to the analysis of the grabbed tweets.
 
 ## Lessons learned
 
