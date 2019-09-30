@@ -1,48 +1,23 @@
 # EC 601 Mini Project 1：Tweet4Like
 
-One Paragraph of project description goes here
+For the owner of the restaurants, they can simply type in the name of their restaurants and then get the result of liking judgement based on comments on Twitter. The input name of the restaurant and “number of tweets to handle” can be determined by users which enable a more flexible option. Therefore, they can easily know how many tweets are liking their restaurant and the percentage of it. This may help to improve their service, menu, dishes. Customers may conceive the improvement when visiting next time.
 
-## Getting Started
+## User stories
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+ I, the owner of restaurants, would like to know the current popular choice of food or drinks (what kinds of products should be released).
+ I, the owner of restaurants, would like to know the comments (like, dislike, suggestions) on my store from customers.
+ I, the owner of restaurants, would like to know which marketing strategies (promotions, advertisements, discounts, events) will have the most posistive reflect.
+ 
+## How to build your system
 
-### Prerequisites
+Our design is consist of Twitter API for developers and python codes. The API helps us grab tweets with specific terms on Twitter. The python codes enable us to reorder the tweets and then analyze it. The results can be shown on the terminal for users.
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ### And coding style tests
 
@@ -52,36 +27,15 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
+## Lessons Learned
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+### Yaqun Xia
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+### Yi-Wei Chen
+I was doing Module 2 which is related to the analysis of grabbed tweets. In this process, I learned how to accomplish the job using python. To be specific, how to read lines in txt files, how to search specific terms in lines, how to make a correct judgement based on keys. These stratagies are new to me which I was learning by doing. The part I think could be better is that I should use the existing tools, namely, Google API to help me do the judgement for it is already built and is with higher accuracy than my code. This caused by not having a full exploring to current tools available. Another thing could be done better is that we did not develop an user interface which may cause the difficulty of using for general users. This is caused by not having enough experience of application development. To conclude, this is the first time for me using Github to complete a group project which I found is convenient for projects in teamwork. Throughout the discussion with my teammate, we eventually built a small system by ourselves from none which is a great accomplish in my point of view. The experience and lessons learned from this mini-project could be my motivation to start the next one. 
