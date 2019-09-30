@@ -2,7 +2,7 @@
 
 For the owner of the restaurants, they can simply type in the name of their restaurants and then get the result of liking judgement based on comments on Twitter. The input name of the restaurant and “number of tweets to handle” can be determined by users, which enable a more flexible option. Therefore, they can easily know how many tweets like their restaurants and the percentage of it. This may help to improve their service, menu, dishes. Customers may conceive the improvement when visiting next time.
 
-## User stories
+#### User stories
 
 I, the owner of the restaurant, would like to know the current popular choice of food or drinks (what kinds of products should be released).  
 I, the owner of the restaurants, would like to know the comments (like, dislike, suggestions) on my store from customers.  
