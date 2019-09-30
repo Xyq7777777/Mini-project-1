@@ -1,4 +1,4 @@
-# Project Title
+# EC 601 Mini Project 1：Tweet4Like
 
 One Paragraph of project description goes here
 
