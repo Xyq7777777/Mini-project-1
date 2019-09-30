@@ -53,7 +53,7 @@ Yi-Wei was in charge of module 2 which is related to the analysis of the grabbed
 
 ### Yaqun Xia
 
-In this project I was in charge of the twitter API.In my part, I learned a developer's basic use of the twitter API.I learned about the connection between twitter and python and the use of some commands.I learned how to format the information I got from twitter and to get the information I needed.I learned how to use github to record my project.
+In this project I was in charge of the twitter API.In my part, I learned a developer's basic use of the twitter API.I recognized the connection between twitter and python and the use of some commands.I also realized how to format the information I got from twitter and to get the information I needed. Github was asked to be used in recordong our project. This is truly efficient and convenient tool for projects.
 
 ### Yi-Wei Chen
 
