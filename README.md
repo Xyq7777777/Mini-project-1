@@ -21,12 +21,6 @@ Our design is consist of Twitter API for developers and python codes. The API he
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-
-
-### And coding style tests
-
 (1) Download our sources in github.
     
    <img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/download.png">
