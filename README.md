@@ -31,13 +31,17 @@ Our design is consist of Twitter API for developers and python codes. The API he
 
    <img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/terminal.png">
     
-(4) Type python twitter_stream.py
+(4) Type python twitter_stream.py.
   
    <img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/twitterapi test.png">
    
 (5) You will find a text document in the flod called twitter_stream_10tweets. Open it and you will find here is 10 tweets.
     
    <img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/tweets.png">
+   
+(6) In terminal, Type Analysis.py to get the result of how many people in these 10 people have positive attitudes to           restarants.
+
+   <img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/Analysis.png">
 
 
 ## Work distribution
