@@ -31,8 +31,10 @@ Our design is consist of Twitter API for developers and python codes. The API he
 
    <img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/terminal.png">
     
-(4)
-
+(4) Type python twitter_stream.py
+  
+   <img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/terminal.png">
+   
 (5)
 
 
