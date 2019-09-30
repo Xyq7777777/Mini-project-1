@@ -39,7 +39,7 @@ Our design is consist of Twitter API for developers and python codes. The API he
     
    <img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/tweets.png">
    
-(6) In terminal, Type Analysis.py to get the result of how many people in these 10 people have positive attitudes to             restarants.
+(6) In terminal, Type Analysis.py to get the result of how many people in these 10 people have positive attitudes to             restaurants.
 
    <img src= "https://github.com/Xyq7777777/Mini-project-1/raw/master/Analysis.png">
 
