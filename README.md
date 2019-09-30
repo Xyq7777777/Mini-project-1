@@ -4,9 +4,11 @@ For the owner of the restaurants, they can simply type in the name of their rest
 
 ## User stories
 
- I, the owner of restaurants, would like to know the current popular choice of food or drinks (what kinds of products should be released).  
- I, the owner of restaurants, would like to know the comments (like, dislike, suggestions) on my store from customers.  
- I, the owner of restaurants, would like to know which marketing strategies (promotions, advertisements, discounts, events) will have the most positive reflect.  
+I, the owner of restaurants, would like to know the current popular choice of food or drinks (what kinds of products should be released).  
+I, the owner of restaurants, would like to know the comments (like, dislike, suggestions) on my store from customers.  
+I, the owner of restaurants, would like to know which marketing strategies (promotions, advertisements, discounts, events) will have the most positive reflect.  
+I, the customer, would like to know what is the percentage of positive comments.
+ 
  
 ## Architecture
 
